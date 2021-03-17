@@ -22,6 +22,6 @@ import io.cucumber.junit.CucumberOptions;
 
 		//,dryRun=true
 		)
-public class GooglePageRunner {
+public class GooglePageRunner{
 
 }
