@@ -41,7 +41,7 @@ public class GoogleSearchStepDef {
 		
 		@Then("shoud display result page")
 		public void shoud_display_result_page() {
-			Assert.assertEquals("java - Google Search",driver.getTitle());
+			Assert.assertEquals("java - Google Search version changer",driver.getTitle());
 
 		    // Write code here that turns the phrase above into concrete actions
 		    //throw new io.cucumber.java.PendingException();
